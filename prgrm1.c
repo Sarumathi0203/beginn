@@ -2,7 +2,7 @@
 #include<conio.h>
 void main()
 {
-int n=5;
+int n=3;
 clrscr();
 if(n>0)
 {
